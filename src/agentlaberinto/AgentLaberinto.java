@@ -37,6 +37,7 @@ public class AgentLaberinto {
     
     public static void main(String[] args) throws InterruptedException {
         // TODO code application logic here
+    // ejemplo de editacion
         Pila okp=new Pila();
         tamano();
           mat= new char[limY][limX];
