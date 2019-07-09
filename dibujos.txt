@@ -1,0 +1,41 @@
+//          g.drawRect(x1,y1,x2,y2);
+//           g.drawRect(x1+40,y1,x2,y2);  A
+//           g.drawRect(x1+80,y1,x2,y2);
+//              
+//          g.drawLine(160,80,200,80);
+//          g.drawLine(160,120,200,120);  G
+
+  
+          g.drawLine(200,80,200,120);
+          g.drawLine(240,80,240,120);  B
+
+           g.drawLine(240,80,280,80);  C
+           g.drawLine(240,80,240,120);
+
+             g.drawLine(280,80,320,80); D
+           g.drawLine(320,80,320,120);
+
+             g.drawLine(280,120,320,120); F
+           g.drawLine(320,80,320,120); 
+
+          g.drawLine(280,120,320,120); E
+           g.drawLine(280,80,280,120);
+
+                  g.drawLine(240,80,280,80);  J
+           g.drawLine(240,80,240,120);
+            g.drawLine(280,80,280,120);
+
+
+               g.drawLine(240,80,280,80);  
+           g.drawLine(240,80,240,120);       H
+          g.drawLine(240,120,280,120);
+ 
+          g.drawLine(240,80,280,80);  
+          g.drawLine(280,80,280,120);         I
+          g.drawLine(240,120,280,120);
+
+               g.drawLine(240,120,280,120);  
+           g.drawLine(240,80,240,120);            K
+            g.drawLine(280,80,280,120);
+                 
+          
